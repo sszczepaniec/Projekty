@@ -1,0 +1,10 @@
+sok 1 700
+jablka 4 500
+szynka 1 600
+bulki 2 200
+chlep 1 300
+banan 1 30
+maslo 1 800
+cukierek 1 20
+syr 1 1000
+gziby 10 600
